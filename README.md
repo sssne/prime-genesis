@@ -4,4 +4,5 @@
 
 ![C/C++ CI](https://github.com/stepin104704/prime-genesis/workflows/C/C++%20CI/badge.svg)
 ![cppcheck-action](https://github.com/stepin104704/prime-genesis/workflows/cppcheck-action/badge.svg)
+![Unit testing](https://github.com/stepin104704/prime-genesis/workflows/Unit%20testing/badge.svg)
 
